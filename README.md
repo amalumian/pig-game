@@ -9,6 +9,8 @@ The rules are simple:
 - press the hold button to save your accumulated points and pass the move to the next player;
 - the player who scores 100 points wins.
 
+Made on [Jonas Schmedtmann's course](https://www.udemy.com/course/the-complete-javascript-course/).
+
 ## Screenshot
 
 ![screenshot](https://i.imgur.com/zRitV1V.png)
